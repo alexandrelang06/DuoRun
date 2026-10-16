@@ -1,0 +1,145 @@
+{
+  "identifier" : "DUORUN-STOREKIT",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "10000001",
+      "localizations" : [
+        { "description" : "10 vies pour revivre après une chute", "displayName" : "Pack 10 vies", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.lives10",
+      "referenceName" : "Pack 10 vies",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : true,
+      "internalID" : "10000002",
+      "localizations" : [
+        { "description" : "Skin Dragon pour ton coureur", "displayName" : "Skin Dragon", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.skin_dragon",
+      "referenceName" : "Skin Dragon",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : true,
+      "internalID" : "10000003",
+      "localizations" : [
+        { "description" : "Skin Robot pour ton coureur", "displayName" : "Skin Robot", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.skin_robot",
+      "referenceName" : "Skin Robot",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : true,
+      "internalID" : "10000008",
+      "localizations" : [
+        { "description" : "Skin Fantôme pour ton coureur", "displayName" : "Skin Fantôme", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.skin_ghost",
+      "referenceName" : "Skin Fantôme",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : true,
+      "internalID" : "10000005",
+      "localizations" : [
+        { "description" : "Débloque le biome Jungle émeraude", "displayName" : "Biome Jungle", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.biome_jungle",
+      "referenceName" : "Biome Jungle",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : true,
+      "internalID" : "10000006",
+      "localizations" : [
+        { "description" : "Débloque le biome Ville néon", "displayName" : "Biome Ville néon", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.biome_neon",
+      "referenceName" : "Biome Ville néon",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : true,
+      "internalID" : "10000007",
+      "localizations" : [
+        { "description" : "Débloque le biome Montagnes enneigées", "displayName" : "Biome Montagnes", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.biome_snow",
+      "referenceName" : "Biome Montagnes",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : true,
+      "internalID" : "10000004",
+      "localizations" : [
+        { "description" : "Débloque le biome Espace (multi-lunes, cristaux)", "displayName" : "Biome Espace", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.biome_space",
+      "referenceName" : "Biome Espace",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "10000010",
+      "localizations" : [
+        { "description" : "2 000 pièces", "displayName" : "Petit sac de pièces", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.coins_1200",
+      "referenceName" : "2000 pièces",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "10000011",
+      "localizations" : [
+        { "description" : "6 500 pièces", "displayName" : "Sac de pièces", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.coins_5000",
+      "referenceName" : "6500 pièces",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "6.99",
+      "familyShareable" : false,
+      "internalID" : "10000012",
+      "localizations" : [
+        { "description" : "16 000 pièces", "displayName" : "Coffre de pièces", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.coins_14000",
+      "referenceName" : "16000 pièces",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "14.99",
+      "familyShareable" : false,
+      "internalID" : "10000013",
+      "localizations" : [
+        { "description" : "36 000 pièces", "displayName" : "Trésor de pièces", "locale" : "fr_FR" }
+      ],
+      "productID" : "com.duorun.coins_40000",
+      "referenceName" : "36000 pièces",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "DUORUN",
+    "_developerTeamID" : "",
+    "_lastSynchronizedDate" : 0
+  },
+  "subscriptionGroups" : [],
+  "version" : { "major" : 3, "minor" : 0 }
+}
